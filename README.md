@@ -59,3 +59,27 @@ Welcome to the repository containing all assignments completed for the ADS2025 D
   - Implementing dropout and weight initialization strategies
   - Understanding challenges in training deep neural networks
 
+### Convolutional Neural Networks, Transfer Learning, and Data Augmentation
+- **Concepts Covered**:
+  - Building CNNs with Keras including multiple convolutional and pooling layers
+  - Hyperparameter tuning of kernel size, stride, and pooling parameters
+  - Implementing data augmentation using `ImageDataGenerator`
+  - Performing transfer learning using pre-trained models like VGG19, ResNet, or EfficientNet
+  - Analyzing the impact of receptive field size on model performance
+  - Evaluation using 3-fold cross-validation
+
+### Autoencoders and Generative AI
+- **Concepts Covered**:
+  - Implementing dense, convolutional, and denoising autoencoders
+  - Creating and training GANs on CIFAR-10 for image generation
+  - Using OpenAI APIs for multimodal generation (image, text, and speech)
+  - Understanding adversarial training
+  - Implementing Variational Autoencoders (VAEs) on Fashion MNIST
+
+### Imbalanced Data and Explainable AI
+- **Concepts Covered**:
+  - Creating data processing pipelines with Pandas and Scikit-Learn
+  - Handling imbalanced datasets with undersampling, oversampling, SMOTE, and class weighting
+  - Integrating classifiers into data pipelines
+  - Applying explainability techniques on CNNs: Grad-CAM, SHAP, LIME, and ELI5
+  - Understanding and interpreting model decisions through visualization
